@@ -1,0 +1,8 @@
+2001,Milk,Bread,Eggs
+2002,Cheese,Bread,Milk
+2003,Juice,Eggs,Bread
+2004,Sugar,Coffee,Bread
+2005,Oats,Milk,Bread
+2006,Cereal,Milk,Bread
+2007,Juice,Eggs,Bread
+2008,Bread,Butter,Eggs
